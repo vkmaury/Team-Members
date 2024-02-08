@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Team-Members/static/css/main.3aa6f04f.css",
+    "main.js": "/Team-Members/static/js/main.fe64c083.js",
+    "index.html": "/Team-Members/index.html",
+    "main.3aa6f04f.css.map": "/Team-Members/static/css/main.3aa6f04f.css.map",
+    "main.fe64c083.js.map": "/Team-Members/static/js/main.fe64c083.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3aa6f04f.css",
+    "static/js/main.fe64c083.js"
+  ]
+}
