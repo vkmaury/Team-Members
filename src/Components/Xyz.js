@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import "../App.css";
+import img1 from "../images1/person.png"
 
 const Xyz = () => {
   const [items] = useState([
@@ -21,7 +22,7 @@ const Xyz = () => {
         <div className="col-sm-4 mb-5">
           <div className="card">
             <img
-              src={`../images/${item1.img}`}
+              src={img1}
               className="card-img-top rounded-circle w-50 m-auto"
               alt="..."
             />
